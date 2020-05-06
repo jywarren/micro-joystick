@@ -9,3 +9,5 @@ This design uses two sewing pins stuck through an inner frame, laid inside a sec
 The design in joystick-frames.svg may be lasercut or printed and cut by hand onto cardstock or mat board. 
 
 ![assembly diagram](https://github.com/jywarren/micro-joystick/blob/gh-pages/micro-joystick.png?raw=true)
+
+This work is released under the [CERN Open Hardware License v2.0-S](https://ohwr.org/project/cernohl/wikis/uploads/002d0b7d5066e6b3829168730237bddb/cern_ohl_s_v2.txt)
