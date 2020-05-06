@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="114.74mm"
-   height="84.491058mm"
-   viewBox="0 0 114.74 84.491058"
+   height="81.051476mm"
+   viewBox="0 0 114.74 81.051475"
    version="1.1"
    id="svg946"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="255.29858"
-     inkscape:cy="166.2382"
+     inkscape:cx="202.56816"
+     inkscape:cy="133.88789"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -80,18 +80,22 @@
     <g
        id="g1829"
        transform="translate(0,1.7629883)">
-      <path
-         d="m 62.636711,18.469496 a 5.7997489,5.7997489 0 0 0 -4.957836,2.870626 H 24.735149 V 48.237704 H 100.63284 V 21.340122 H 67.690149 a 5.7997489,5.7997489 0 0 0 -5.005895,-2.870626 5.7997489,5.7997489 0 0 0 -0.04754,0 z"
-         style="fill:none;fill-opacity:0.501961;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path1770-9" />
-      <rect
-         style="fill:none;fill-opacity:0.501961;stroke:#ff0000;stroke-width:0.127963"
-         id="rect948-8"
-         width="85.872536"
-         height="36.872253"
-         x="19.747984"
-         y="16.352789"
-         ry="1.0583328" />
+      <g
+         transform="translate(0,-3.3072917)"
+         id="g879">
+        <path
+           id="path1770-9"
+           style="fill:none;fill-opacity:0.501961;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 62.636711,18.469496 a 5.7997489,5.7997489 0 0 0 -4.957836,2.870626 H 24.735149 V 48.237704 H 100.63284 V 21.340122 H 67.690149 a 5.7997489,5.7997489 0 0 0 -5.005895,-2.870626 5.7997489,5.7997489 0 0 0 -0.04754,0 z" />
+        <rect
+           ry="1.0583328"
+           y="16.352789"
+           x="19.747984"
+           height="36.872253"
+           width="85.872536"
+           id="rect948-8"
+           style="fill:none;fill-opacity:0.501961;stroke:#ff0000;stroke-width:0.127963" />
+      </g>
       <path
          sodipodi:nodetypes="sccssccssccssccss"
          transform="matrix(0.26458333,0,0,0.26458333,5.3141277,5.8471031)"
@@ -116,7 +120,7 @@
       </g>
     </g>
     <g
-       transform="translate(0,-11.709397)"
+       transform="translate(0,-15.14898)"
        id="g1820">
       <g
          transform="translate(-21.88073,-1.7122557)"
