@@ -12,5 +12,6 @@ The design in joystick-frames.svg may be lasercut or printed and cut by hand ont
 
 ![open hardware facts](https://jywarren.github.io/certification-mark-generator/premade/CERN-OHL-2.0-S_GPL-3.0-only_CC-BY-SA-4.0.svg)
 
+### License
 
 This work is released under the [CERN Open Hardware License v2.0-S](https://ohwr.org/project/cernohl/wikis/uploads/002d0b7d5066e6b3829168730237bddb/cern_ohl_s_v2.txt) and documentation under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)
