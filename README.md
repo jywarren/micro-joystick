@@ -25,6 +25,8 @@ The design in joystick-frames.svg may be lasercut or printed and cut by hand ont
 
 You should be done! 
 
+If the slide isn't a snug fit, you can tape it in place.
+
 ![picture of assembled joystick](https://jywarren.github.io/micro-joystick/assembly.jpg)
 
 ### License
